@@ -1,0 +1,188 @@
+body{
+    font-family: 'Bw Modelica';
+    font-size: 30px;
+    line-height: 36px;
+}
+
+.img{
+    width: 500px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 100%);
+
+}
+.text{
+    position: absolute;
+width: 152px;
+height: 100px;
+left: 70px;
+top: 900px;
+
+font-family: 'Bw Modelica';
+font-size: 50px;
+line-height: 36px;
+color: #FFFFFF;
+}
+.blokn1{
+    display: flex;
+    text-align:right ;
+    position: absolute;
+width: 144px;
+height: 17px;
+left: 160px;
+top: 80px;
+
+font-family: 'Bw Modelica';
+font-size: 23px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.blokn2{
+    position: absolute;
+width: 219px;
+height: 17px;
+left: 200px;
+top: 145px;
+
+font-family: 'Bw Modelica';
+font-size: 23px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.sverhu{
+    position: absolute;
+width: 100px;
+height: 21px;
+left: 620px;
+top: 32px;
+
+font-family: 'Arial';
+font-size: 35px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000; 
+}
+.sverhu2{
+    position: absolute;
+width: 632px;
+height: 499px;
+left: 268px;
+top: 113px;
+
+background: #F9F9F9;
+
+
+/* “Being energy efficient just makes sense. It is hard though.” */
+
+
+position: absolute;
+width: 517px;
+height: 21px;
+left: 615px;
+top: 100px;
+
+font-family: 'Arial';
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #666666;
+
+}
+.sverhu3{
+    
+position: absolute;
+width: 46px;
+height: 21px;
+left: 620px;
+top: 250px;
+
+font-family: 'Arial';
+font-size: 27px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.sverhu4{
+    text-align:left ;
+    position: absolute;
+    width: 409px;
+    height: 60px;
+    left: 620px;
+    top: 300px;
+    
+    font-family: 'Arial';
+    font-size: 20px;
+    line-height: 20px;
+    
+    color: #000000;
+}
+.sverhu5{
+    position: absolute;
+width: 150px;
+height: 30px;
+left: 620px;
+top: 520px;
+
+font-family: 'Arial';
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.sverhu6{
+    position: absolute;
+width: 345px;
+height: 75px;
+left: 620px;
+top: 560px;
+
+font-family: 'Arial';
+font-size: 20px;
+line-height: 20px;
+
+color: #000000;
+
+}
+.sverhu7{
+    position: absolute;
+    width: 219px;
+    height: 21px;
+    left: 620px;
+    top: 860px;
+    
+    font-family: 'Arial';
+    font-size: 19px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+.sverhu8{
+    position: absolute;
+width: 516px;
+height: 90px;
+left: 620px;
+top: 895px;
+
+font-family: 'Arial';
+font-size: 17px;
+line-height: 17px;
+
+color: #000000;
+
+}
